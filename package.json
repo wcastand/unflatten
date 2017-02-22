@@ -1,0 +1,14 @@
+{
+  "name": "unflatten",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js | tap-spec"
+  },
+  "dependencies": {
+    "ramda": "^0.22.1",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.2"
+  }
+}
